@@ -1,5 +1,4 @@
-
-
+https://github.com/user-attachments/assets/8aa8e7c0-a7a1-4d5e-b68a-205ffe7eef63
 
 
 # راهنمای نصب و اجرای پروژه
@@ -34,7 +33,7 @@ SEED_ADMIN_PASSWORD="admin1234"
 **ساخت کلید امنیتی (AUTH_SECRET):
 
 
-*
+
 
 دستور زیر را در ترمینال اجرا کنید:
 
