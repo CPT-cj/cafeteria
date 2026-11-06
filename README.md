@@ -1,6 +1,7 @@
 
 
 
+
 # راهنمای نصب و اجرای پروژه
 
 ## ۱. پیش‌نیازها
@@ -30,7 +31,10 @@ PAYMENT_MODE="mock"
 SEED_ADMIN_PASSWORD="admin1234"
 ```
 
-**ساخت کلید امنیتی (AUTH_SECRET):**
+**ساخت کلید امنیتی (AUTH_SECRET):*<img width="1905" height="902" alt="Screenshot 2026-11-05 185613" src="https://github.com/user-attachments/assets/67d22449-5e07-47e2-be1d-5a3d3ee829fd" />
+
+
+*
 
 دستور زیر را در ترمینال اجرا کنید:
 
